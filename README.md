@@ -34,14 +34,14 @@ I will try to remember the Python knowledge learned as much as possible and appl
 - Practice OOP by building a basic model of something simple (like a vehicle)
 - Learn Boolean logic and control flows; build a virtual assistant
 
-*Week 4:
+*Week 4:*
 
 - Review topics from Week 1-3; ask questions about any concepts you're unsure of
 - Build another beginner Python script (like monthly payment calculator)
 
 ### Month 2: 
 
-*Week 1-2:
+*Week 1-2:*
 
 - Learn about lists, tuples, sets, and dictionaries (data structures) 
 - Study examples that iterate, access, and manipulate these data structures
@@ -52,7 +52,7 @@ I will try to remember the Python knowledge learned as much as possible and appl
 - Learn about handling user input and output; practice with a script 
 - Learn about exceptions and exception handling; add to your user input script
 
-*Week 4:
+*Week 4:*
 
 - Review OOP and classes; practice by adding some attributes/methods to a class
 - Learn about file handling and processing; build a script that manipulates a CSV file
