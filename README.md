@@ -2,102 +2,73 @@
 To capture my journey of learning Python.
 
 ## 🤔 Why start the journey？
-I've always wanted to learn a computer language.
+I've always wanted to learn a computer language. Python is the perfect place to start. Why? Because I'm brainwashed.😂
 
 ## 🚀 How the journey will go？
 
-I ask Claude to create a roadmap to learn Python.
+I asked ChatGPT/Claude to create a 3-month roadmap on learning Python for me. And break it down into weeks. 
 
-Here's a suggested 3-month roadmap to learn Python from scratch:
+During this learning process, I will consult the opinions of artificial intelligence and adjusted my own learning strategies based on their suggestions. 
 
-Month 1:
-
-1. Install Python and set up the environment. Install Python 3 and an editor like Visual Studio Code.
-2. Learn Python basics. Cover data types, variables, conditional logic, loops, functions, objects, etc. You can learn from Python's official tutorial and reference manuals.
-3. Practice with simple scripts and applications. Some examples:
-- A script to calculate monthly payments
-- A script to generate random passwords
-- A basic GUI app using Tkinter
-4. Learn Python libraries. Introduction to some common libraries like NumPy, Pandas, Matplotlib, etc. Do some practice projects using these libraries.
-
-Month 2:
-
-1. Deep dive into Python OOP concepts. Learn about classes, objects, inheritance, encapsulation, etc. Build some simple classes and applications.
-2. Learn unit testing and debugging. Use libraries like Pytest and Python debugging tool to improve your code.
-3. Learn Python web frameworks. Introduction to Django and Flask. Build some small web applications.
-4. Practice with data structures and algorithms. Implement searching, sorting, linked lists, trees, etc. in Python.
-5. Learn database basics. Use MySQL and SQLAlchemy to build simple database-backed applications.
-
-Month 3:
-
-1. Build a web API using Flask or Django REST Framework. Create an API and front-end to access some dataset or information.
-2. Learn advanced Python topics. Asynchronous programming with AsyncIO, concurrency and parallelism, regular expressions, metaprogramming, etc.
-3. Create a bigger project to practice all the skills. For example, a web scraper project, a desktop GUI application, or building a game.
-4. Join the Python community. Follow popular Python blogs, podcasts, and startup communities. Start contributing to open source projects.
-5. Review and solidify your learning. Go back to the topics you're still weak in and review again. Take online courses/certifications to strengthen your understanding.
-
-With persistence and consistency, you can learn Python from a beginner level to an intermediate level in 3 months using this roadmap. Feel free to adjust the pace and topics based on your needs. Let me know if you have any other questions!
-
-Here's a suggested weekly plan for learning Python over 3 months:
-
-Month 1
-
-Week 1:
-
-- Install Python and VS Code
-- Learn data types, variables, conditional logic, loops
-- Practice with simple scripts like monthly payment calculator  
-
-Week 2:
-
-- Learn functions, objects and Python classes
-- Practice by building a basic GUI app with Tkinter
-- Learn about NumPy and Matplotlib
-- Project: Random password generator
-
-Week 3:
-
-- Dig into Python OOP, inheritance and encapsulation
-- Learn unit testing with Pytest; practice debugging 
-- Project: A class to represent a bank account 
-
-Week 4:
-
-- Introduction to Django and Flask
-- Build a small web application with one of the frameworks
-
-Month 2
+I will try to remember the Python knowledge learned as much as possible and applied it to practice. This repository serves as my learning journal.
 
 
-Week 5:
 
-- Practice with linked lists, trees and other data structures
-- Implement sorting and searching algorithms in Python
+### Month 1:
 
-Week 6:
+*Week 1:*
 
-- Learn MySQL and SQLAlchemy
-- Build a database-backed application
+\- Install Python and VS Code (or editor of your choice)
+\- Learn about datatypes (strings, numbers, booleans), variables
+\- Practice with simple operators and conditional logic (if/else)
 
-Week 7:
+*Week 2:*
+\- Study loops (for, while) and iterate over lists/strings
+\- Learn about functions; practice writing a few simple functions
+\- Build a basic calculator or password generator script
 
-- Create a web API using Flask or Django REST Framework
-- Build front-end to access data from API
+*Week 3:*
+\- Learn about objects and classes; understand attributes and methods
+\- Practice OOP by building a basic model of something simple (like a vehicle)
+\- Learn Boolean logic and control flows; build a virtual assistant
 
-Week 8: 
+*Week 4:*
+\- Review topics from Week 1-3; ask questions about any concepts you're unsure of
+\- Build another beginner Python script (like monthly payment calculator)
 
-- Learn asynchronous programming with AsyncIO 
-- Study concurrency, parallelism and regular expressions
+### Month 2: 
 
-Month 3
+*Week 1-2:*
+\- Learn about lists, tuples, sets, and dictionaries (data structures) 
+\- Study examples that iterate, access, and manipulate these data structures
+\- Build a basic app that uses data structures (e.g. a phone book contact app)
 
-Week 9-12:
+*Week 3:*
+\- Learn about handling user input and output; practice with a script 
+\- Learn about exceptions and exception handling; add to your user input script
 
-- Work on a bigger Python project, e.g. web scraper, desktop app or game
-- Join the Python community; contribute to open source
-- Review and solidify learning; take Python course/certification (optional)
+*Week 4:*
+\- Review OOP and classes; practice by adding some attributes/methods to a class
+\- Learn about file handling and processing; build a script that manipulates a CSV file
 
-This is just a suggested weekly plan, feel free to adjust the pace based on your availability and learning needs. The key is to start working on concrete Python projects as much as possible to put what you learn into practice. Let me know if you have any other questions! I'm happy to provide more suggestions and resources for learning Python.
+### Month 3: 
+
+*Week 1-2:*
+\- Learn about libraries like NumPy, Pandas, Matplotlib, etc.
+\- Practice importing and using libraries by building a simple data analysis script
+
+*Week 3:*
+\- Keep practicing with scripts and simple classes; revise any previous topics
+\- Consider learning a Python web framework like Flask; build a tiny web app 
+
+*Week 4:*
+\- Review fundamentals and projects you've built; reflect on your progress 
+\- Explore next steps: more advanced Python topics, other frameworks/libraries, etc.
+\- Practice Python consistently even after this roadmap ends! Continuous learning is key.
+
+
+
+*Based on my availability and learning needs, I will make appropriate adjustments to the roadmap.
 
 ## 🖹 Resources
 
